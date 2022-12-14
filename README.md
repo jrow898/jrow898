@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jrow898
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...HTML, CSS, and Javascript. 
+- 🌱 I’m currently learning ...HTML, CSS, Javascript and Python. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...judithrowland@hotmail.co.uk
 
